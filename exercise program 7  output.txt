@@ -1,0 +1,43 @@
+output:
+
+Contact Book
+1. Add Contact
+2. View Contacts
+3. Delete Contact
+4. Exit
+
+Enter your choice (1-4): 1
+Enter contact name: dharun
+Enter contact number: 8807766088
+Contact 'dharun' added successfully!
+
+Contact Book
+1. Add Contact
+2. View Contacts
+3. Delete Contact
+4. Exit
+
+Enter your choice (1-4): 2
+
+Contact List:
+1. dharun: 8807766088
+
+Contact Book
+1. Add Contact
+2. View Contacts
+3. Delete Contact
+4. Exit
+
+Enter your choice (1-4): 3
+
+Contact List:
+1. dharun: 8807766088
+Enter contact number to delete: contact number
+Please enter a valid number.
+
+Contact Book
+1. Add Contact
+2. View Contacts
+3. Delete Contact
+4. Exit
+
